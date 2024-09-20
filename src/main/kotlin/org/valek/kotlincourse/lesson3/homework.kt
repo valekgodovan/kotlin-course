@@ -21,6 +21,7 @@ class homework {
 //Количество участников
 
     var duration: Double = 3.5
+}
 //Длительность хакатона
 
 
